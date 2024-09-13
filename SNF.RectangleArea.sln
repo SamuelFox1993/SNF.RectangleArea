@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SNF.RectangleArea", "SNF.RectangleArea\SNF.RectangleArea.vcxproj", "{A1E680AE-5E36-4348-A958-CC2B94B299A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1E680AE-5E36-4348-A958-CC2B94B299A7}.Debug|x64.ActiveCfg = Debug|x64
+		{A1E680AE-5E36-4348-A958-CC2B94B299A7}.Debug|x64.Build.0 = Debug|x64
+		{A1E680AE-5E36-4348-A958-CC2B94B299A7}.Debug|x86.ActiveCfg = Debug|Win32
+		{A1E680AE-5E36-4348-A958-CC2B94B299A7}.Debug|x86.Build.0 = Debug|Win32
+		{A1E680AE-5E36-4348-A958-CC2B94B299A7}.Release|x64.ActiveCfg = Release|x64
+		{A1E680AE-5E36-4348-A958-CC2B94B299A7}.Release|x64.Build.0 = Release|x64
+		{A1E680AE-5E36-4348-A958-CC2B94B299A7}.Release|x86.ActiveCfg = Release|Win32
+		{A1E680AE-5E36-4348-A958-CC2B94B299A7}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C63466BC-B384-4E6C-B091-762FB4285E6B}
+	EndGlobalSection
+EndGlobal
